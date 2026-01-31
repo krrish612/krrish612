@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Krrish 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Explorer;Engineer+by+Mindset;Builder+by+Habit;Turning+Data+into+Decisions&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Explorer;Engineer+by+Mindset;Builder+by+Habit;Debugging+Life+and+Code&center=true&width=520&height=45">
 </p>
 
 ---
@@ -17,9 +17,6 @@
 I don’t just learn tech — I build with it.  
 I treat GitHub like a **workshop, not a trophy shelf.**  
 Every repo = a step closer to mastery.  
-
-> *“Stay hungry, stay foolish.”* — Jobs  
-> *“Slow is smooth, smooth is fast.”* — Special Ops mindset  
 
 Projects > Promises  
 Consistency > Motivation  
@@ -43,10 +40,22 @@ If it solves a real problem, I'm interested.
 
 ---
 
+## 😄 Fun Signals (Human Side)
+
+- My code works… after I threaten it  
+- 90% of ML is convincing data to behave  
+- I debug more than I sleep  
+- My GPU knows my secrets  
+- `git commit -m "final_final_v2_actual_final"`
+
+> I don’t chase bugs — they find me.
+
+---
+
 ## ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,tensorflow,pytorch,opencv,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,tensorflow,pytorch,supabase,c,flask,fastapi" />
 </p>
 
 ---
@@ -63,10 +72,10 @@ If it solves a real problem, I'm interested.
 
 - I like systems that scale  
 - I respect people who build quietly  
-- I prefer depth over hype  
-- Yes, I think in probabilities sometimes  
+- Depth > hype  
+- Sometimes I think in probabilities  
 
-> “The obstacle is the way.”  
+> “The obstacle is the way.”
 
 ---
 
