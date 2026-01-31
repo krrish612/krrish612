@@ -29,9 +29,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krrish612&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-
-<img src="https://streak-stats.demolab.com?user=krrish612&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krrish612&theme=github_dark" />
 
 </p>
 
