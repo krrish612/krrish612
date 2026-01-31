@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**krrish612/krrish612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <h1 align="center">Hi 👋 I'm Krrish Tripathi</h1>
 
 <p align="center">
@@ -16,14 +10,9 @@ Here are some ideas to get you started:
 
 🎓 Engineering Student  
 🤖 Aspiring Machine Learning Engineer  
-📊 Focused on Data Science & AI  
+📊 Focused on AI & Data Science  
 🚀 Building real-world ML projects  
-🏋️‍♂️ Gym + 💻 Coding = Discipline lifestyle  
-
-- 🌱 Currently learning **Machine Learning & DSA**
-- 🎯 Goal: ML Internship & strong placements
-- ⚡ Believe in consistency over motivation
-- 📈 Self-improvement & skill-building mindset
+🏋️‍♂️ Gym + 💻 Coding lifestyle  
 
 ---
 
@@ -39,35 +28,34 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=krrish612&show_icons=true&theme=tokyonight" height="170">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" height="170">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krrish612&theme=tokyonight" height="170">
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🌐 Connect With Me
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night" />
+<p align="center">
+
+<a href="https://www.linkedin.com/in/krrish-tripathi/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:krriszora@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://x.com/KrrishTripathi2">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+</p>
 
 ---
 
-## 🚀 Current Focus
-
-```text
-✔ Machine Learning  
-✔ Deep Learning  
-✔ Data Analytics  
-✔ DSA for placements  
-✔ AI Project Building  
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krrish612&color=blueviolet&style=flat-square">
+</p>
