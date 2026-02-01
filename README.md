@@ -14,8 +14,8 @@
 
 🚀 Machine Learning learner on a serious journey  
 
-I don’t just learn tech — I build with it.  
-I treat GitHub like a **workshop, not a trophy shelf.**  
+I don’t just learn tech  I build with it.  
+I treat GitHub like a workshop, not a trophy shelf.  
 Every repo = a step closer to mastery.  
 
 Projects > Promises  
